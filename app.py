@@ -29,7 +29,7 @@ def parse_guess(raw: str):
     return True, value, None
 
 
-def check_guess(guess, secret):
+def check_guess(guess, secret):#FIX: Refactored broken logic in app.py using Claude AI Pro
     if guess == secret:
         return "Win", "🎉 Correct!"
 
@@ -77,7 +77,7 @@ difficulty = st.sidebar.selectbox(
     index=1,
 )
 
-attempt_limit_map = {
+attempt_limit_map = { #Fixed broken diffulty using claude AI Pro
     "Easy": 10,
     "Normal": 7,
     "Hard": 5,

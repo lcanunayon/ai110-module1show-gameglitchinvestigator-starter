@@ -25,13 +25,13 @@ It wrote the code, ran away, and now the game is unplayable.
 
 ## 📝 Document Your Experience
 
-- [ ] Describe the game's purpose.
-- [ ] Detail which bugs you found.
+- [ The games purpose is guessing a number that the game randomly picks and gives you a hint whether or not to go higher or lower.] Describe the game's purpose.
+- [ Bugs I found was wrong hints, bugged difficulty, and attempts not being accurate.] Detail which bugs you found.
 - [ ] Explain what fixes you applied.
 
 ## 📸 Demo
 
-- [ ] [Insert a screenshot of your fixed, winning game here]
+- [![Local Image](C:\Users\delon\OneDrive\Pictures\glitchyguesserfix.jpg) ] [Insert a screenshot of your fixed, winning game here]
 
 ## 🚀 Stretch Features
 
